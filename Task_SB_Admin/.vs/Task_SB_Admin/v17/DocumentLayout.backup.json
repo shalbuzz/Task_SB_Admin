@@ -1,10 +1,282 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\book\\bookcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\book\\bookcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\authorcontacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\authorcontacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\book\\bookeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\book\\bookeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\models\\authorcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\models\\authorcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\models\\bookauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\models\\bookauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\book\\bookdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\book\\bookdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\book\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\book\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\controllers\\bookauthorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\controllers\\bookauthorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\bookcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\bookcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\controllers\\authorcontactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\controllers\\authorcontactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\bookcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\bookcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\authorcontacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\authorcontacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\authorcontacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\authorcontacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\publishers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\publishers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\bookcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\bookcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\bookcategories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\bookcategories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\authorcontacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\authorcontacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\authorcontacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\authorcontacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\bookcategory\\bookcategorydetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\bookcategory\\bookcategorydetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\views\\bookcategories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\views\\bookcategories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\publisher\\publisherdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\publisher\\publisherdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\publisher\\publishervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\publisher\\publishervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\bookcategory\\bookcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\bookcategory\\bookcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\bookauthor\\bookauthorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\bookauthor\\bookauthorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\authorcontact\\authorcontactdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\authorcontact\\authorcontactdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\authorcontact\\authorcontactvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\authorcontact\\authorcontactvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\author\\authorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\author\\authorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\author\\authordetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\author\\authordetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\bookauthor\\bookauthordetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\bookauthor\\bookauthordetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\publisher\\publishereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\publisher\\publishereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\publisher\\publishercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\publisher\\publishercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\bookcategory\\bookcategoryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\bookcategory\\bookcategoryeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\bookcategory\\bookcategorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\bookcategory\\bookcategorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\bookauthor\\bookauthorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\bookauthor\\bookauthorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\authorcontact\\authorcontacteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\authorcontact\\authorcontacteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\authorcontact\\authorcontactcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\authorcontact\\authorcontactcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\author\\authoreditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\author\\authoreditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\viewmodels\\author\\authorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\viewmodels\\author\\authorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\migrations\\20250428184337_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\migrations\\20250428184337_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|c:\\users\\user\\source\\repos\\task_sb_admin\\task_sb_admin\\migrations\\20250430134518_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A774A512-CF63-4F6A-AF17-FAEBC31E96AE}|Task_SB_Admin\\Task_SB_Admin.csproj|solutionrelative:task_sb_admin\\migrations\\20250430134518_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +286,878 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T11:07:33.015Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T19:45:49.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:48:32.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\Author.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:09:19.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Book\\BookCreateVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Book\\BookCreateVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Book\\BookCreateVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Book\\BookCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:28:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:50:22.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\Book.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:09:11.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Book\\BookDetailsVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Book\\BookDetailsVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Book\\BookDetailsVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Book\\BookDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:11:24.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Book\\BookEditVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Book\\BookEditVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Book\\BookEditVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Book\\BookEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:28:43.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\AuthorContacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\AuthorContacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\AuthorContacts\\Create.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\AuthorContacts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:56:08.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T12:59:57.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorContact.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\AuthorContact.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Models\\AuthorContact.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\AuthorContact.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Models\\AuthorContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:09:35.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookAuthors.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\BookAuthors.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Models\\BookAuthors.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\BookAuthors.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Models\\BookAuthors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:09:53.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Book\\BookVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Book\\BookVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Book\\BookVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Book\\BookVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:28:25.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:48:57.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwM0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T12:41:25.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookAuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\BookAuthorsController.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Controllers\\BookAuthorsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\BookAuthorsController.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Controllers\\BookAuthorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:13:16.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Authors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T14:23:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\BookCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\BookCategories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\BookCategories\\Create.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\BookCategories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:57:15.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Authors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Authors\\Create.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Authors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:56:36.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthorContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\AuthorContactsController.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Controllers\\AuthorContactsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\AuthorContactsController.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Controllers\\AuthorContactsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwD4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:49:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:49:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\BookCategoriesController.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Controllers\\BookCategoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Controllers\\BookCategoriesController.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Controllers\\BookCategoriesController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:48:07.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Publishers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Publishers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Publishers\\Index.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Publishers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:50:57.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\BookCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\BookCategories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\BookCategories\\Index.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\BookCategories\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:49:53.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\AuthorContacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\AuthorContacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\AuthorContacts\\Index.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\AuthorContacts\\Index.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T18:59:07.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Publishers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Publishers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Publishers\\Edit.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Publishers\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T20:00:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Publishers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Publishers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Publishers\\Delete.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Publishers\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:00:01.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Publishers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Publishers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Publishers\\Create.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Publishers\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:58:15.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T20:00:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T20:59:11.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\BookCategories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\BookCategories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\BookCategories\\Edit.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\BookCategories\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:59:44.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\AuthorContacts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\AuthorContacts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\AuthorContacts\\Edit.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\AuthorContacts\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:58:43.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\BookCategories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\BookCategories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\BookCategories\\Delete.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\BookCategories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T20:58:19.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\AuthorContacts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\AuthorContacts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\AuthorContacts\\Delete.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\AuthorContacts\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T20:05:16.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Authors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Authors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Authors\\Details.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Authors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:17:10.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Authors\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:59:19.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Authors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Authors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Authors\\Delete.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Authors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T20:05:49.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:18:14.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\AuthorContacts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\AuthorContacts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\AuthorContacts\\Details.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\AuthorContacts\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:15:55.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Models\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\BookCategory.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Models\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:09:00.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Program.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Program.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:39:50.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250430134518_Update.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Migrations\\20250430134518_Update.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Migrations\\20250430134518_Update.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Migrations\\20250430134518_Update.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Migrations\\20250430134518_Update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:45:19.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\appsettings.Development.json",
+              "RelativeToolTip": "Task_SB_Admin\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T18:30:31.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:35:07.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BookCategoryDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryDetailsVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryDetailsVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryDetailsVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:12:08.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T13:00:20.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PublisherDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Publisher\\PublisherDetailsVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Publisher\\PublisherDetailsVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Publisher\\PublisherDetailsVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Publisher\\PublisherDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:12:20.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PublisherVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Publisher\\PublisherVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Publisher\\PublisherVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Publisher\\PublisherVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Publisher\\PublisherVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:31:37.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\BookCategories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\BookCategories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\BookCategories\\Details.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\BookCategories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:17:46.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Publishers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Views\\Publishers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Views\\Publishers\\Details.cshtml",
+              "RelativeToolTip": "Task_SB_Admin\\Views\\Publishers\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T21:18:39.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BookCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:32:23.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BookAuthorVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:33:11.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AuthorContactDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactDetailsVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactDetailsVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactDetailsVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:11:13.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AuthorContactVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:33:53.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AuthorVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Author\\AuthorVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Author\\AuthorVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Author\\AuthorVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Author\\AuthorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:29:33.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AuthorDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Author\\AuthorDetailsVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Author\\AuthorDetailsVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Author\\AuthorDetailsVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Author\\AuthorDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:10:59.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BookAuthorDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorDetailsVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorDetailsVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorDetailsVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:11:47.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PublisherEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Publisher\\PublisherEditVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Publisher\\PublisherEditVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Publisher\\PublisherEditVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Publisher\\PublisherEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:32:07.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PublisherCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Publisher\\PublisherCreateVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Publisher\\PublisherCreateVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Publisher\\PublisherCreateVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Publisher\\PublisherCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:31:53.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BookCategoryEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryEditVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryEditVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryEditVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:32:47.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BookCategoryCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryCreateVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryCreateVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryCreateVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\BookCategory\\BookCategoryCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:32:34.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BookAuthorCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorCreateVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorCreateVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorCreateVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\BookAuthor\\BookAuthorCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:33:22.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AuthorContactEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactEditVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactEditVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactEditVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:34:25.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AuthorContactCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactCreateVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactCreateVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactCreateVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\AuthorContact\\AuthorContactCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:34:10.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AuthorEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Author\\AuthorEditVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Author\\AuthorEditVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Author\\AuthorEditVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Author\\AuthorEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:31:25.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AuthorCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Author\\AuthorCreateVM.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\ViewModels\\Author\\AuthorCreateVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\ViewModels\\Author\\AuthorCreateVM.cs",
+              "RelativeToolTip": "Task_SB_Admin\\ViewModels\\Author\\AuthorCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:31:17.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:10:04.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Models\\Publisher.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:08:46.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250428184337_createDb.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Migrations\\20250428184337_createDb.cs",
+              "RelativeDocumentMoniker": "Task_SB_Admin\\Migrations\\20250428184337_createDb.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Task_SB_Admin\\Task_SB_Admin\\Migrations\\20250428184337_createDb.cs",
+              "RelativeToolTip": "Task_SB_Admin\\Migrations\\20250428184337_createDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:43:38.136Z"
             }
           ]
         }
